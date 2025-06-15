@@ -39,3 +39,8 @@ AccessAuditor is a comprehensive tool to audit AWS IAM roles and policies to enf
 ### Phase 8: Security Hardening & Documentation (Ambitious)
 - Secure credential management.
 - Full documentation and test coverage.
+
+
+
+
+**Proof of concept project, so as not to exceed AWS free tier limits**
